@@ -1,2 +1,2 @@
 # NCResource
-Resource Map for NC
+Resource Map in NC for Domestic Violence Victims
